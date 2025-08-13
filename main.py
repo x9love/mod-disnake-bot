@@ -32,4 +32,4 @@ for file in os.listdir("./cogs"):
         bot.load_extension(f"cogs.{file[:-3]}")
 
 token = os.getenv('STABLE')
-bot.run('твой токен')
+bot.run('MTIzNDkyOTA5NzAwMDM1Mzg5Mw.GICSYd.x7Cb8yFc-UeIbtTPP77muNsTILUdfKZVjRZktk')
